@@ -1,10 +1,10 @@
 # Cheeko Video Library
 
-The team's page for every Cheeko marketing video: thumbnail, what it's about, and links to watch it, the Ready to post files, all files and the script, plus the caption for English and Hindi.
+The public page for every Cheeko marketing video: thumbnail, what it's about, a Watch button and the ready-to-copy caption, in English and Hindi.
 
 Live page: https://craftech360-projects.github.io/cheeko-video-library/
 
-The video links point to the "cheeko ai videos" Google Drive folder, so they open only for people that folder is shared with.
+Videos play from the "Public videos" folder in Google Drive, the only public part of the Cheeko videos Drive. Nothing else is linked from this page.
 
 ## Updating
 
